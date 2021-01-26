@@ -1,6 +1,6 @@
-Visiting Card UI
+## Visiting Card UI
 
-Learnings:
+**Learnings:**
 - Creating Stateless Widgets
 - Difference between hot reload and hot refresh and running an app from cold
 - Use Containers to lay out your UI
@@ -11,6 +11,8 @@ Learnings:
 - Read and use Flutter Documentation
 
 
-Output Screenshot:
+**Output Screenshot:**
 
 <img src="images/screenshot.jpeg" height="618" width="291">
+
+**Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.**
