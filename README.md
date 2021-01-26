@@ -16,3 +16,5 @@
 <img src="images/screenshot.jpeg" height="618" width="291">
 
 **Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.**
+
+![Alt Text](https://filebin.net/s4sk74mvina7jp5j/dice.gif?t=wc2elxdg)
